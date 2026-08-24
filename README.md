@@ -51,6 +51,10 @@ Highlights:
 - Built and adjusted a web view for live sensor monitoring and improved the data handling flow for streamed measurements
 - Used iterative logging, register-level reasoning, and firmware testing to isolate sensor communication and initialization issues
 
+Repository:
+
+- [PPG-Monitor (collaborative repo)](https://github.com/10dojak/PPG-Monitor)
+
 ### 16-Bit Processor (Transistor-Level CMOS, Collaborative Project)
 
 A collaborative chip-design project centered on building a 16-bit RISC processor at the transistor level, from schematic capture through physical layout and mixed-signal verification.
@@ -87,5 +91,4 @@ Repository:
 - GitHub: [kelvinopoku777](https://github.com/kelvinopoku777)
 - LinkedIn: www.linkedin.com/in/kelvin-opoku-1267a028a
 - Email: kelvin_amankwaa@brown.edu
-
 
